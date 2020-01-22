@@ -1,6 +1,0 @@
-1 - yearoftherat	- base 64
-2 - lanternsarecool	- rotation and base 64
-3 - 25thofJanuary	-letters swapped with numbers
-4 - LunarNewYear	- pictures
-5 - SpringFestival	- Substitution Cipher zip password is nlalacrimosa10
-6 - ChineseNewYear	- sha256 7zip archive password is cableguy44
